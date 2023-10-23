@@ -24,19 +24,23 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a MSc. student in Biological and Biomedical Engineering at McGill University. I enjoy developing computational methods for healthcare applications.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Modeling and simulation",
+  "Machine learning",
+  "Data analysis",
+  "Epidemiology",
+  "Global and public health",
+  "Scientific writing",
+  "Sientific programming",
+  "Large Language Models",
+  "Agents and multi-agent systems",
+  "Python, C++, R, MATLAB",
 ];
 
 /**
